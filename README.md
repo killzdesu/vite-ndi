@@ -1,7 +1,7 @@
 ## Vite-ndi
 *Vitesse+Windi*
 
-Vitesse fork with support for WindiCSS (and DaisyUI) out-of-the-box
+[Vitesse](https://github.com/antfu/vitesse) fork with support for WindiCSS (and DaisyUI) out-of-the-box
 
 ## Features
 - ⚡️ [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite), [pnpm](https://pnpm.js.org/), [ESBuild](https://github.com/evanw/esbuild) - born with fastness

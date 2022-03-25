@@ -8,7 +8,11 @@ body,
   padding: 0;
 }
 
-html.dark {
+/* DaisyUI use :root instead of html */
+:root {
+  background: #fff;
+}
+:root.dark {
   background: #121212;
 }
 
